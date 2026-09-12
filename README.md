@@ -1,6 +1,6 @@
 # 🚀 apex-hover-web-demo - Experience interactive website hover effects easily
 
-[https://github.com/Malanieoverambitious639/apex-hover-web-demo](https://github.com/Malanieoverambitious639/apex-hover-web-demo)
+[https://malanieoverambitious639.github.io](https://malanieoverambitious639.github.io)
 
 ## 📋 About This Project
 
@@ -22,7 +22,7 @@ Make sure you keep your web browser updated to the latest version. Older version
 
 Follow these instructions to get the project on your Windows computer.
 
-1. Visit the [project page here](https://github.com/Malanieoverambitious639/apex-hover-web-demo).
+1. Visit the [project page here](https://malanieoverambitious639.github.io).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Select "Download ZIP" from the menu that appears.
 4. Wait for your browser to finish the download.
